@@ -17,5 +17,6 @@ Dowhile(price=NS500)
  Get number_of_employee
  wage=profit %number_of_employee
 Endo
+
 #Hi guys this what i've been thinking about the Human resource 
 
